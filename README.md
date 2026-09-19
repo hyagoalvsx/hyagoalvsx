@@ -1,16 +1,93 @@
-## Hi there 👋
+# Olá! Eu sou o Hyago Alves 👋
 
-<!--
-**hyagoalvsx/hyagoalvsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRO – Campus Ji-Paraná**.
 
-Here are some ideas to get you started:
+💻 Atualmente estou desenvolvendo meus conhecimentos em desenvolvimento de software, banco de dados e **Internet das Coisas (IoT)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 No momento, estou trabalhando no meu **TCC**, desenvolvendo a proposta de um **sistema inteligente para estufa**, utilizando conceitos de **Internet of Things (IoT)** para monitoramento e automação.
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Desenvolvimento
+
+
+
+
+
+\
+
+### 🗄️ Banco de Dados
+
+### 🔧 Ferramentas
+
+\
+
+---
+
+## 📊 Linguagens mais utilizadas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyagoalvsx&layout=compact&langs_count=8&theme=dark"/>
+
+</div>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyagoalvsx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+</div>
+
+---
+
+## 🌱 Atualmente aprendendo
+
+* 🔹 TypeScript
+* 🔹 Desenvolvimento de aplicações web
+* 🔹 Banco de dados e modelagem
+* 🔹 Internet das Coisas (IoT)
+* 🔹 Integração entre hardware e software
+* 🔹 Desenvolvimento de sistemas
+
+---
+
+## 🔬 Projeto atual
+
+### 🌱 Sistema Inteligente para Estufa
+
+Projeto desenvolvido como parte do meu **TCC em Análise e Desenvolvimento de Sistemas**.
+
+A proposta envolve a utilização de **IoT** para monitoramento e automação de uma estufa, trabalhando com informações como:
+
+* 🌡️ Temperatura
+* 💧 Umidade do ar
+* 🌱 Umidade do solo
+* 🚿 Automação da irrigação
+* 📊 Registro e visualização de dados
+* 📡 Comunicação entre dispositivos
+
+O projeto busca integrar **hardware, software, banco de dados e IoT** em uma solução voltada ao ambiente acadêmico do IFRO.
+
+---
+
+## 📚 Sobre mim
+
+Sou estudante de ADS e estou constantemente buscando aprender novas tecnologias e transformar o conhecimento adquirido em projetos práticos.
+
+Atualmente, meus principais interesses estão em:
+
+**Desenvolvimento de Software • IoT • Banco de Dados • Desenvolvimento Web • Tecnologia**
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🚀
+
+</div>
