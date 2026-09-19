@@ -10,19 +10,20 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,html,css,js,ts,py,visualstudio,vscode,mysql,git,github&perline=7" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,py,visualstudio,vscode,mysql,git,github&perline=6" alt="Minhas Skills" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyagoalvsx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyagoalvsx&layout=compact&langs_count=8&theme=dark"/>
+  <a href="https://github.com/hyagoalvsx">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hyagoalvsx&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyagoalvsx&layout=compact&langs_count=8&theme=dark" alt="Linguagens Mais Usadas" />
+  </a>
 </div>
-
 ---
 
 ## 🌱 Atualmente aprendendo
