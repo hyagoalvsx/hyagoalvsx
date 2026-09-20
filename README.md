@@ -16,16 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/hyagoalvsx">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hyagoalvsx&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyagoalvsx&layout=compact&langs_count=8&theme=dark" alt="Linguagens Mais Usadas" />
-  </a>
-</div>
----
-
 ## 🌱 Atualmente aprendendo
 
 - 🔹 TypeScript
